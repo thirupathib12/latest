@@ -1,6 +1,6 @@
 add
 sub
-mul
+mulkk
 div
 del
 jjj
